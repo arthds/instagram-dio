@@ -4,7 +4,7 @@ Projeto de recriação da interface de login do Instagram.
 
 Realizei pequenas alterações a partir da estrutura proposta pela expert Gabriela Pinheiro. Essa página é o resultado de um desafio de projeto proposto pela DIO, aplicando os conhecimentos aprendidos nas aulas de Flexbox.
 
-Pensei na possibilidade de existir um Instagram'arts, uma rede social voltada a artistas e interessados em arte - pensando em muitos artistas que precisam criar dois perfis nessa rede social, uma para sua vida pessoal e outro para a publicação de seus trabalhos.
+Pensei na possibilidade de existir um Instagram'arts, uma rede social voltada a artistas e interessados em arte - pensando em muitos artistas que precisam criar dois perfis nessa rede social, um para sua vida pessoal e outro para a publicação de seus trabalhos.
 
 Para isso, utilizei um perfil de um projeto artístico que mantenho, chamado @rasteloroxo
 
